@@ -1,7 +1,7 @@
 import pygame
 import random
  
- 
+ #test
 pygame.font.init()
  
 # GLOBALS VARS
